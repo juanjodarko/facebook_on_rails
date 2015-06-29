@@ -1,5 +1,5 @@
 body{
-	padding-top:50px;	
+	padding-top:70px;	
 }
 
 a {
@@ -7,9 +7,15 @@ a {
 }
 
 .post {
-border: 1px solid #ECF0F1;
-border-radius: 5px;
-background-color: #ECF0F1;
-padding: 10px;
-margin: 10px;
+	border: 1px solid #ECF0F1;
+	border-radius: 5px;
+	background-color: #ECF0F1;
+	padding: 10px;
+	margin: 10px;
+}
+
+.checkbox input{
+	margin:0 !important;
+	padding:0 !important;
+	opacity:1 !important;
 }

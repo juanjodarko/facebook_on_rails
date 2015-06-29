@@ -35,6 +35,12 @@ gem 'devise'
 #facebook authentication
 gem 'omniauth-facebook'
 
+#Adding flat design
+gem "flat-ui-rails"
+
+#Mayor integracion con facebook
+gem 'koala'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
